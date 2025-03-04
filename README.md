@@ -8,7 +8,6 @@
 
 
 
-- 🔭 I’m currently working on **Ascent HR Technologies Private Limited, Client - FLIPKART**
 
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about **Data Analytics**
